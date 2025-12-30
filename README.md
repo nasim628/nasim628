@@ -11,11 +11,8 @@ I specialize in WordPress, WooCommerce, and front end design. I love creating cl
 
 - WordPress Website Development  
 - WooCommerce Store Setup  
-- Custom Themes and UI Design  
-- HTML, CSS, JavaScript  
+- HTML, CSS, 
 - Responsive Web Design  
-- Website Speed Optimization  
-- Bug Fixing and Security  
 
 ---
 
