@@ -27,7 +27,7 @@ I specialize in WordPress, WooCommerce, and front end design. I love creating cl
 ---
 
 **Recent Project**
--*Wordpress Projects:
+ Wordpress Projects:
 - project1:https://dev-yeamin285528aa.pantheonsite.io/
 - project2:https://dev-nasim-clothing-store.pantheonsite.io/
 
