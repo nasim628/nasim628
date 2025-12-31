@@ -32,7 +32,7 @@ I specialize in WordPress, WooCommerce, and front end design. I love creating cl
 - project2:https://dev-nasim-clothing-store.pantheonsite.io/
 - 
 - ---
-** HTML,CSS,JS Project**
+** HTML,CSS,JS**
 -project 1:https://nasim628.github.io/project1/
 
 
