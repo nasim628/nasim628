@@ -43,8 +43,9 @@ I specialize in WordPress, WooCommerce, and front end design. I love creating cl
 
 ## 📫 Contact Me  
  
-- Email: yourname@gmail.com
-- Portfolio:https://www.nasim6.xyz/
+- Email:mdnasim11190@gmail.com
+- Phone:+8801924821295
+- Portfolio:https://www.nasim6.xyz/wp
 
 ---
 
